@@ -19,7 +19,7 @@ The technologies I know are:
 
 ### 🎮 Video-Games WebPage
 
-A simple page aplication (SPA) showing the proncipal videogames around the world. The vidoegame's data obtein from RAWG.io API.
+A simple page aplication (SPA) showing the principal videogames around the world. The vidoegame's data is obtein from RAWG.io API.
 
 Things I learned:
 - Fetch data from an API
