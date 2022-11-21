@@ -1,6 +1,6 @@
-## 👋 Hi
+## 👋 Hi, there
 
-I'm a Full Stack developer, focused on the continuous learning of new skills, with capacity in the creation of applications using web technologies, emphasizing the solution of problems in the environment and in teams
+I'm a software developer who is passionate about technology and the opportunity it gives us to build a better future.
 
 The technologies I know are:
 
@@ -17,13 +17,107 @@ The technologies I know are:
 
 ## My projects
 
-### 🎮 Video-Games WebPage
+#### 🧑🏼‍🍳 Foodie
 
-A simple page aplication (SPA) showing the proncipal videogames around the world. The vidoegame's data obtein from RAWG.io API.
+Find awesome recipes to take your cooking skills to the next level. You can also create your own recipes and share them with world.
+
+Things I learned:
+- Use React to build a client-side project
+- Implement Redux to manage the state of the application
+- Create a server-side API using Node.js and Express
+- Build a database model using Sequelize and Postgresql
+
+<a href="http://foodie-pi-tau.vercel.app/" target="_blank">👉🏼 Start cooking!</a>
+
+<a href="https://github.com/ferchoeth/Food-app" target="_blank">👉🏼 See the code</a>
+
+---
+
+#### ✅ To-Do app
+
+Simple To-Do app created using React.
+
+Things I learned:
+- Build an app with React
+- Simple state management with React.Context
+- Use React Hooks
+
+<a href="https://ferchoeth.github.io/todo-react-app/" target="_blank">👉🏼 Visit website</a>
+
+<a href="https://github.com/ferchoeth/todo-react-app" target="_blank">👉🏼 See the code</a>
+
+---
+
+#### ⭐️ Top rated movies
+
+A website showing the top rated movies around the world. Data is obtain from The Movie Database API.
 
 Things I learned:
 - Fetch data from an API
-- The states management whit React Redux
-- The DataBase creation and management with Sequalize.js
-- The User Interface creation with React
-- The CRUD bakend's routes creation
+- Use loading skeletons
+- Apply intersection observer to optimize image loading
+- Use location.hash to navigate in the app
+
+<a href="https://ferchoeth.github.io/top-rated-movies/" target="_blank">👉🏼 Discover your new favorite movie</a>
+
+<a href="https://github.com/ferchoeth/top-rated-movies" target="_blank">👉🏼 See the code</a>
+
+---
+
+#### 👾 Mokepones fight
+
+Three creatures, made of water, fire, and plants respectively, fight for the honor of their family. Any similarity with other games is pure coincidence 😄.
+
+Things I learned:
+- Draw with canvas and JavaScript
+- Generate event listeners
+- Implement classes on JavaScript
+
+<a href="https://ferchoeth.github.io/Batalla-de-Mokepones/" target="_blank">👉🏼 Go fight</a>
+
+<a href="https://github.com/ferchoeth/Batalla-de-Mokepones" target="_blank">👉🏼 See the code</a>
+
+---
+
+#### 💸 Batatabit landing page
+
+Batatabit is a tool to monitorize cryptocurrencies activity.
+
+Things I learned:
+- Responsive design with media queries
+- Layout design with figma
+- HTML structure
+
+<a href="https://ferchoeth.github.io/batatabit-clon/" target="_blank">👉🏼 Visit website</a>
+
+<a href="https://github.com/ferchoeth/batatabit-clon" target="_blank">👉🏼 See the code</a>
+
+---
+
+#### 😻 Random cat picture generator
+
+We all love cats, and here you can get awesome images.
+
+Things I learned:
+- Fetching data from API
+- App-based authentication
+
+<a href="https://ferchoeth.github.io/cat-picture-generator/" target="_blank">👉🏼 Find your favorite cat</a>
+
+<a href="https://github.com/ferchoeth/cat-picture-generator" target="_blank">👉🏼 See the code</a>
+
+
+<!--
+**ferchoeth/ferchoeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
