@@ -29,3 +29,9 @@ Things I learned:
 - The CRUD bakend's routes creation
 
 <a href="https://videogameshenry.vercel.app/" target="_blank">👉🏼 WebPage Link!</a>
+
+---
+## If you want to contact with my
+<a target="_blank">👉 Email✉ camilo.sarmiento.amado@gmail.com</a>
+<br/>
+<a href="https://www.linkedin.com/in/camilo-sarmiento-051a80244/" target="_blank">👉 💼 LinkedIn</a>
