@@ -34,4 +34,4 @@ Things I learned:
 ## If you want to contact with my
 <a target="_blank">👉 Email✉ camilo.sarmiento.amado@gmail.com</a>
 <br/>
-<a href="https://www.linkedin.com/in/camilo-sarmiento-051a80244/" target="_blank">👉 💼 LinkedIn</a>
+<a href="https://www.linkedin.com/in/camilo-sarmiento-051a80244/" target="_blank">👉 💼 LinkedIn </a>
