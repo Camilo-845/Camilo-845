@@ -80,14 +80,14 @@
                 <img style="width:100%" align="center" src="https://media.licdn.com/dms/image/C4E2DAQFkfGaNSIgO5Q/profile-treasury-image-shrink_160_160/0/1669234798774?e=1699034400&v=beta&t=uM60R7kKTqhnSLr5okmlkc0QZFy8htRR8AOTxhnL9Zg"/>
                 <p>
                     <a href="https://github.com/Camilo-845/Henry-PI" target="_blank">
-                        <img style="width:47%" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="left"/>
+                        <img style="width:40%" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="left"/>
                     </a>
                     <a href="https://videogameshenry.vercel.app/" target="_blank">
-                        <img style="width:47%" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" align="right"/>
+                        <img style="width:40%" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" align="right"/>
                     </a>
                 </p>
             </th>
-            <th>
+            <th align="left">
                 A simple page aplication (SPA) showing the principal videogames around the world. The vidoegame's data is obtein from RAWG.io API.
                 Things I learned:
                 <ul>
@@ -113,14 +113,14 @@
                 <img style="width:100%" align="center" src="https://media.licdn.com/dms/image/C4E2DAQGXWwSfUQSNAw/profile-treasury-image-shrink_800_800/0/1669233194127?e=1699063200&v=beta&t=2RTmKqtwqLZx4hPr-MAstatHDcQXc4gLRWYJEJMtRlM"/>
                 <p>
                     <a href="https://github.com/PF-03/CoinTracker" target="_blank" >
-                        <img style="width:47%" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="left"/>
+                        <img style="width:40%" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="left"/>
                     </a>
                     <a href="https://pf-03-cointracker.vercel.app/" target="_blank" >
-                        <img style="width:47%" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" align="right"/>
+                        <img style="width:40%" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" align="right"/>
                     </a>
                 </p>
             </th>
-            <th>
+            <th align="left">
                 <ul>
                     <li>Development of a cryptocurrency monitoring application</li>
                     <li>Automated email sending, user authentication, among others.</li>
@@ -148,7 +148,7 @@
                     </a>
                 </p>
             </th>
-            <th>
+            <th align="left">
                 <ul>
                     <li>Development of a REST API + MongoDB for handling user and news requests.</li>
                     <li>Consumption of External API "News data API"</li>
@@ -172,7 +172,7 @@
                     </a>
                 </p>
             </th>
-            <th>
+            <th align="left">
                 <ul>
                     <li>Development of a Python script for automated backup of a database hosted in NOTION.</li>
                     <li>Handling of external API "NOTION API"</li>
@@ -192,7 +192,7 @@
                     </a>
                 </p>
             </th>
-            <th>
+            <th align="left">
                 <ul>
                     <li>Development of a compilation program for managing billing system accounts</li>
                     <li>Teamwork</li>
@@ -212,7 +212,7 @@
                     </a>
                 </p>
             </th>
-            <th>
+            <th align="left">
                 <ul>
                     <li>Development of an API for handling user requests for authentication and inventory management</li>
                     <li>CRUD MySQL database</li>
@@ -235,7 +235,7 @@
                     </a>
                 </p>
             </th>
-            <th>
+            <th align="left">
                 <ul>
                     <li>Development of a desktop application with Java using the Model-View-Controller (MVC) architecture</li>
                     <li>Implemented Technologies: Java</li>
