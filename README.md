@@ -9,7 +9,7 @@
 </p>
 <p align="center">
     <a href="http://camilosar.site" target="_blank">
-        <img src="https://res.cloudinary.com/dup7szo6y/image/upload/v1698420929/AppsImages/GitHubProfile/ixsiy6y1joe5pqvnh9wo.png"/>
+        <img src="https://res.cloudinary.com/dup7szo6y/image/upload/v1698420929/AppsImages/GitHubProfile/ixsiy6y1joe5pqvnh9wo.png" with="10%"/>
     </a>
 </p>
 <h2 align='center'>
