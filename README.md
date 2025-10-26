@@ -1,6 +1,9 @@
 <img src="https://res.cloudinary.com/dup7szo6y/image/upload/v1698420929/AppsImages/GitHubProfile/jalqnhckrvn4kpwvungq.png" with="100%"/>
+<p align="center" >
+   Backend Developer <br/> DevOps Enthusiast <br/> Systems Engineering Student
+</p>
 <p align="center">
-   Software Developer | DevOps Enthusiast | Systems Engineering Student </br> I enjoy providing software solutions and bring ideas to solve real-world problems.
+   I enjoy providing software solutions and bring ideas to solve real-world problems.
 </p>
 
 ## 🎯 Skills
