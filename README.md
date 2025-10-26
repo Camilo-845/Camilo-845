@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/dup7szo6y/image/upload/v1698420929/AppsImages/GitHubProfile/jalqnhckrvn4kpwvungq.png" with="100%"/>
 <p align="center">
-   Software Developer | DevOps Enthusiast | Systems Engineering Student </br> I enjoy providing software solutions and bring ideas to life and solve real-world problems.
+   Software Developer | DevOps Enthusiast | Systems Engineering Student </br> I enjoy providing software solutions and bring ideas to solve real-world problems.
 </p>
 
 ## 🎯 Skills
@@ -26,8 +26,8 @@
     <img src="https://img.shields.io/badge/DevOps-Culture%20&%20Automation-ff69b4?style=for-the-badge" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <a href="http://camilosar.site" target="_blank">
         <img src="https://res.cloudinary.com/dup7szo6y/image/upload/v1698420929/AppsImages/GitHubProfile/ixsiy6y1joe5pqvnh9wo.png" with="10%"/>
     </a>
-</p>
+</p> -->
